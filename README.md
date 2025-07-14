@@ -1,16 +1,34 @@
-# mobile_test
+# 🐱‍🏍 Pokemon App
 
-A new Flutter project.
+A sleek and responsive Flutter application that showcases a list of Pokémon with detailed information and modern UI. Built using Flutter and powered by public APIs, this app is a great starter project for mobile developers.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🧾 List of Pokémon with names and images  
+- 🔍 Pokémon detail screen with stats, types, and abilities  
+- ❤️ Add to Favorites and Watchlist  
+- 🌙 Light and dark theme support  
+- ⚡ Smooth animations and responsive design  
+- 📶 Fetches live data from a public Pokémon API
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Getting Started
+
+These instructions will get your Flutter app up and running on your local machine.
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Android Studio / VSCode with Flutter plugin
+- A device or emulator
+
+### Installation
+
+```bash
+git clone https://github.com/aji2111/pokemon.git
+cd pokemon
+flutter pub get
+flutter run
